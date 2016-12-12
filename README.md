@@ -2,6 +2,9 @@
 Global Code retreat 2016 CSharp
 
 
+Kickstarted with Visual Studio 2015, C# 4 and NUnit. 
+
+
 * Write exactly one new test. It should be the smallest test which seems to point in the direction of a solution
 * Run the test to make sure it fails
 * Make the test from (1) pass by writing the least amount of implementation code you can IN THE TEST METHOD.
